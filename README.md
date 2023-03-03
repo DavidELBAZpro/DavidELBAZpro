@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **React, Redux and SaSS**
+- 💬 Ask me about **React, Redux, SaSS and Node.js**
 
 - 📫 How to reach me **david.elbaz.pro@gmail.com**
 
-- ⚡ Fun fact : I speak 5 languages and looking to learn new ones 🗣️ 
+- ⚡ Fun fact : I speak **5 languages** and looking to learn new ones 🗣️ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
