@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate Full Stack developer 💫</h3>
 
-- 🔭 I’m currently working in collaboration on a login/storage Firebase based project / SPA React project (https://github.com/Dalya1812/panProject)
-
-- 🌱 I’m currently learning ** Typescript, algorithms, data structures..**
-
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 💬 Ask me about **React, Redux, SaSS and Node.js**
