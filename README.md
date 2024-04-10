@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate Full Stack developer 💫</h3>
+<h3 align="center">A passionate Fullstack/Devops 💫</h3>
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
